@@ -15,7 +15,7 @@ const notoSansKR = Noto_Sans_KR({
 export const metadata: Metadata = {
   title: "가톨릭대학교 강의실 대여",
   description: "가톨릭대학교 강의실 및 공간 대여 시스템",
-  generator: "v0.app",
+  generator: "Technologia",
 }
 
 export default function RootLayout({
